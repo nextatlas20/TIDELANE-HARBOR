@@ -1,0 +1,9 @@
+berth_id,name,pier,opened_at,capacity,revision
+BH-101,North Gate,Alpha,2034-06-01T08:00Z,12,1
+BH-101,North Gate Annex,Alpha,2034-06-01T08:00Z,14,2
+BH-205,Seafarer Quay,Bravo,2034-06-05T09:30Z,20,1
+BH-205,Seafarer Quay,Bravo,2034-06-05T09:30Z,22,1
+BH-310,Outer Basin,Charlie,2034-06-10T12:15Z,9,3
+BH-404,Old Slip,Delta,2034-06-12T07:45Z,7,1
+BH-777,Bad Date,Echo,2034-06-31T07:45Z,8,9
+BH-888,,Foxtrot,2034-06-12T07:45Z,8,1

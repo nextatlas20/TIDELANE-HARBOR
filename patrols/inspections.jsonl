@@ -1,0 +1,11 @@
+{"berth_id":"BH-101","check_no":1,"checked_at":"2034-06-10T10:00Z","finding":"CLEAR","severity":1}
+{"berth_id":"BH-101","check_no":2,"checked_at":"2034-06-20T11:00Z","finding":"REPAIR","severity":3}
+{"berth_id":"BH-205","check_no":4,"checked_at":"2034-06-22T08:00Z","finding":"CLEAR","severity":2}
+{"berth_id":"BH-205","check_no":4,"checked_at":"2034-06-22T08:00Z","finding":"CLOSE","severity":5}
+{"berth_id":"BH-310","check_no":1,"checked_at":"2034-06-09T10:00Z","finding":"CLOSE","severity":5}
+{"berth_id":"BH-310","check_no":2,"checked_at":"2034-06-25T16:30Z","finding":"CLOSE","severity":5}
+{"berth_id":"BH-404","check_no":1,"checked_at":"2034-07-01T08:00Z","finding":"REPAIR","severity":4}
+{"berth_id":"BH-999","check_no":1,"checked_at":"2034-06-15T08:00Z","finding":"REPAIR","severity":4}
+{"berth_id":"BH-205","check_no":5,"checked_at":"2034-06-24T08:00Z","finding":"MAYBE","severity":2}
+{"berth_id":"BH-101","check_no":3,"checked_at":"2034-06-25T08:00Z","finding":"CLEAR","severity":true}
+not json
