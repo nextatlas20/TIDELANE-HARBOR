@@ -1,0 +1,46 @@
+{
+  "cutoff": "2034-06-30T18:00Z",
+  "berth_count": 4,
+  "berths": [
+    {
+      "berth_id": "BH-205",
+      "name": "Seafarer Quay",
+      "pier": "Bravo",
+      "capacity": 22,
+      "state": "CLOSED",
+      "finding": "CLOSE",
+      "checked_at": "2034-06-22T08:00Z",
+      "severity": 5
+    },
+    {
+      "berth_id": "BH-310",
+      "name": "Outer Basin",
+      "pier": "Charlie",
+      "capacity": 9,
+      "state": "CLOSED",
+      "finding": "CLOSE",
+      "checked_at": "2034-06-25T16:30Z",
+      "severity": 5
+    },
+    {
+      "berth_id": "BH-101",
+      "name": "North Gate Annex",
+      "pier": "Alpha",
+      "capacity": 14,
+      "state": "REPAIR",
+      "finding": "REPAIR",
+      "checked_at": "2034-06-20T11:00Z",
+      "severity": 3
+    },
+    {
+      "berth_id": "BH-404",
+      "name": "Old Slip",
+      "pier": "Delta",
+      "capacity": 7,
+      "state": "UNINSPECTED",
+      "finding": null,
+      "checked_at": null,
+      "severity": null
+    }
+  ]
+}
